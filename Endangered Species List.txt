@@ -1,0 +1,4824 @@
+The order goes as Organism Type > Species Name > Federal Status > Unit Name > State
+
+Amphibian, Arroyo Toad, Endangered, San Diego NWR, 
+CA, 
+
+
+
+Amphibian, California Red-legged Frog, Endangered, Guadalupe-Nipomo Dunes NWR, 
+CA, 
+
+
+
+Amphibian, California Red-legged Frog, Endangered, San Diego NWR, 
+CA, 
+
+
+
+Amphibian, Cheat Mountain Salamander, Threatened, Canaan Valley NWR, 
+WV, 
+
+
+
+Amphibian, Chiricahua leopard frog, Threatened, Buenos Aires NWR, 
+AZ, 
+
+
+
+Amphibian, Santa Cruz Long-toed Salamander, Endangered, Ellicott Slough NWR, 
+CA, 
+
+
+
+Amphibian, Wyoming Toad, Endangered, Mortenson Lake NWR, 
+WY, 
+
+
+
+Amphibian, Wyoming Toad, Endangered, Hutton Lake NWR, 
+WY, 
+
+
+
+Bird, Akiapolaau, Endangered, Hakalau Forest NWR, 
+HI, 
+
+
+
+Bird, Attwater's Greater Prairie-chicken, Endangered, Attwater Prairie Chicken NWR, 
+TX, 
+
+
+
+Bird, Attwater's Greater Prairie-chicken, Endangered, Aransas NWR, 
+TX, 
+
+
+
+Bird, Audubon's Crested Caracara, Threatened, Arthur R. Marshall Loxahatchee NWR, 
+FL, 
+
+
+
+Bird, Bachman's Warbler, Endangered, Ernest F. Hollings ACE Basin NWR, 
+SC, 
+
+
+
+Bird, Bachman's Warbler, Endangered, Cape Romain NWR, 
+SC, 
+
+
+
+Bird, Bald Eagle, Threatened, Havasu NWR, 
+AZ, 
+
+
+
+Bird, Bald Eagle, Threatened, Bill Williams River NWR, 
+AZ, 
+
+
+
+Bird, Bald Eagle, Threatened, Kofa National Wildlife Refuge, 
+AZ, 
+
+
+
+Bird, Black-capped Vireo, Endangered, Santa Ana NWR, 
+TX, 
+
+
+
+Bird, Black-capped Vireo, Endangered, Wichita Mountains Wildlife Refuge, 
+OK, 
+
+
+
+Bird, Black-capped Vireo, Endangered, Balcones Canyonlands NWR, 
+TX, 
+
+
+
+Bird, Bridled White-eye, Endangered, Guam NWR, 
+GU, 
+
+
+
+Bird, Brown Pelican, Endangered, Big Branch Marsh NWR, 
+LA, 
+
+
+
+Bird, Brown Pelican, Endangered, Grays Harbor NWR, 
+WA, 
+
+
+
+Bird, Brown Pelican, Endangered, Siletz Bay NWR, 
+OR, 
+
+
+
+Bird, Brown Pelican, Endangered, Bayou Sauvage NWR, 
+LA, 
+
+
+
+Bird, Brown Pelican, Endangered, Delta NWR, 
+LA, 
+
+
+
+Bird, Brown Pelican, Endangered, Havasu NWR, 
+AZ, CA, 
+
+
+
+Bird, Brown Pelican, Endangered, Bill Williams River NWR, 
+AZ, 
+
+
+
+Bird, Brown Pelican, Endangered, Cibola NWR, 
+AZ, CA, 
+
+
+
+Bird, Brown Pelican, Endangered, San Diego Bay NWR, 
+CA, 
+
+
+
+Bird, Brown Pelican, Endangered, Guadalupe-Nipomo Dunes NWR, 
+CA, 
+
+
+
+Bird, Brown Pelican, Endangered, Sandy Point NWR, 
+VI, 
+
+
+
+Bird, Brown Pelican, Endangered, Culebra NWR, 
+PR, 
+
+
+
+Bird, Brown Pelican, Endangered, Green Cay NWR, 
+VI, 
+
+
+
+Bird, Brown Pelican, Endangered, Shell Keys NWR, 
+LA, 
+
+
+
+Bird, Brown Pelican, Endangered, Santa Ana NWR, 
+TX, 
+
+
+
+Bird, Brown Pelican, Endangered, Aransas NWR, 
+TX, 
+
+
+
+Bird, Brown Pelican, Endangered, San Bernard NWR, 
+TX, 
+
+
+
+Bird, Brown Pelican, Endangered, Imperial NWR, 
+AZ, CA, 
+
+
+
+Bird, Brown Pelican, Endangered, Laguna Atascosa NWR, 
+TX, 
+
+
+
+Bird, Brown Pelican, Endangered, Lower Rio Grande Valley NWR, 
+TX, 
+
+
+
+Bird, Brown Pelican, Endangered, Breton NWR, 
+LA, 
+
+
+
+Bird, Brown Pelican, Endangered, Big Boggy NWR, 
+TX, 
+
+
+
+Bird, Brown Pelican, Endangered, Seal Beach  NWR, 
+CA, 
+
+
+
+Bird, Brown Pelican, Endangered, Three Arch Rocks NWR, 
+OR, 
+
+
+
+Bird, Brown Pelican, Endangered, Tijuana Slough  NWR, 
+CA, 
+
+
+
+Bird, Brown Pelican, Endangered, Willapa   NWR, 
+WA, 
+
+
+
+Bird, Brown Pelican, Endangered, Oregon Islands NWR, 
+OR, 
+
+
+
+Bird, Brown Pelican, Endangered, Salinas River NWR, 
+CA, 
+
+
+
+Bird, Brown Pelican, Endangered, Sonny Bono Salton Sea  NWR, 
+CA, 
+
+
+
+Bird, Brown Pelican, Endangered, Don Edwards San Francisco Bay  NWR, 
+CA, 
+
+
+
+Bird, Brown Pelican, Endangered, San Pablo Bay NWR, 
+CA, 
+
+
+
+Bird, Brown Pelican, Endangered, Farallon  NWR, 
+CA, 
+
+
+
+Bird, Brown Pelican, Endangered, Bandon Marsh NWR, 
+OR, 
+
+
+
+Bird, Cactus Ferruginous Pygmy-owl, Endangered, Lower Rio Grande Valley NWR, 
+TX, 
+
+
+
+Bird, Cactus Ferruginous pygmy-owl, Endangered, Cabeza Prieta NWR, 
+AZ, 
+
+
+
+Bird, Cactus Ferruginous pygmy-owl, Endangered, Buenos Aires NWR, 
+AZ, 
+
+
+
+Bird, Cactus Ferruginous pygmy-owl, Endangered, Laguna Atascosa NWR, 
+TX, 
+
+
+
+Bird, Cactus Ferruginous pygmy-owl, Endangered, San Bernardino NWR, 
+AZ, 
+
+
+
+Bird, California Condor, Endangered, Bitter Creek NWR, 
+CA, 
+
+
+
+Bird, California Condor, Endangered, Blue Ridge NWR, 
+CA, 
+
+
+
+Bird, California Condor, Endangered, Hopper Mountain  NWR, 
+CA, 
+
+
+
+Bird, Clapper Rail, California , Endangered, San Pablo Bay NWR, 
+CA, 
+
+
+
+Bird, Clapper Rail, California , Endangered, Don Edwards San Francisco Bay  NWR, 
+CA, 
+
+
+
+Bird, Clapper Rail, California , Endangered, Farallon  NWR, 
+CA, 
+
+
+
+Bird, Clapper Rail, Light-footed , Endangered, Tijuana Slough  NWR, 
+CA, 
+
+
+
+Bird, Clapper Rail, Light-footed , Endangered, San Diego Bay NWR, 
+CA, 
+
+
+
+Bird, Clapper Rail, Light-footed , Endangered, Seal Beach  NWR, 
+CA, 
+
+
+
+Bird, Clapper Rail, Yuma , Endangered, Sonny Bono Salton Sea  NWR, 
+CA, 
+
+
+
+Bird, Clapper Rail, Yuma , Endangered, Cibola NWR, 
+AZ, CA, 
+
+
+
+Bird, Clapper Rail, Yuma , Endangered, Havasu NWR, 
+AZ, CA, 
+
+
+
+Bird, Clapper Rail, Yuma , Endangered, Imperial NWR, 
+AZ, CA, 
+
+
+
+Bird, Clapper Rail, Yuma , Endangered, Bill Williams River NWR, 
+AZ, 
+
+
+
+Bird, Coastal California Gnatcatcher, Threatened, San Diego NWR, 
+CA, 
+
+
+
+Bird, Eskimo Curlew, Endangered, North Dakota WMA, 
+ND, 
+
+
+
+Bird, Eskimo Curlew, Endangered, Lower Rio Grande Valley NWR, 
+TX, 
+
+
+
+Bird, Everglade Snail Kite, Endangered, Arthur R. Marshall Loxahatchee NWR, 
+FL, 
+
+
+
+Bird, Everglade Snail Kite, Endangered, Florida Panther NWR, 
+FL, 
+
+
+
+Bird, Everglade Snail Kite, Endangered, Lake Woodruff NWR, 
+FL, 
+
+
+
+Bird, Florida Scrub Jay, Threatened, Lake Woodruff NWR, 
+FL, 
+
+
+
+Bird, Florida Scrub Jay, Threatened, Hobe Sound NWR, 
+FL, 
+
+
+
+Bird, Florida Scrub Jay, Threatened, Lower Suwannee NWR, 
+FL, 
+
+
+
+Bird, Florida Scrub Jay, Threatened, Merritt Island NWR, 
+FL, 
+
+
+
+Bird, Florida Scrub Jay, Threatened, Lake Wales Ridge NWR, 
+FL, 
+
+
+
+Bird, Golden-cheeked Warbler, Endangered, Farallon  NWR, 
+CA, 
+
+
+
+Bird, Golden-cheeked Warbler, Endangered, Balcones Canyonlands NWR, 
+TX, 
+
+
+
+Bird, Golden-cheeked Warbler, Endangered, Lower Rio Grande Valley NWR, 
+TX, 
+
+
+
+Bird, Golden-cheeked Warbler, Endangered, Santa Ana NWR, 
+TX, 
+
+
+
+Bird, Guam Broadbill, Endangered, Guam NWR, 
+GU, 
+
+
+
+Bird, Guam Micronesian Kingfisher, Endangered, Guam NWR, 
+GU, 
+
+
+
+Bird, Hawaii Akepa, Endangered, Hakalau Forest NWR, 
+HI, 
+
+
+
+Bird, Hawaii Creeper, Endangered, Hakalau Forest NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Common Moorhen, Endangered, Hanalei  NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Common Moorhen, Endangered, Huleia NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Common Moorhen, Endangered, James Campbell  NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Common Moorhen, Endangered, Kakahaia  NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Coot, Endangered, Kakahaia  NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Coot, Endangered, James Campbell  NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Coot, Endangered, Huleia NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Coot, Endangered, Hanalei  NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Coot, Endangered, Pearl Harbor  NWR, 
+HI, 
+
+
+
+Bird, Hawaiian coot, Endangered, Kealia Pond NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Duck, Endangered, Pearl Harbor  NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Duck, Endangered, Hanalei  NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Duck, Endangered, Hakalau Forest NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Duck, Endangered, Huleia NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Duck, Endangered, James Campbell  NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Duck, Endangered, Kakahaia  NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Goose, Endangered, Hakalau Forest NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Hawk, Endangered, Hakalau Forest NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Stilt, Endangered, Kakahaia  NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Stilt, Endangered, James Campbell  NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Stilt, Endangered, Huleia NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Stilt, Endangered, Hanalei  NWR, 
+HI, 
+
+
+
+Bird, Hawaiian Stilt, Endangered, Pearl Harbor  NWR, 
+HI, 
+
+
+
+Bird, Hawaiian stilt, Endangered, Kealia Pond NWR, 
+HI, 
+
+
+
+Bird, Interior Least Tern, Endangered, North Dakota WMA, 
+ND, 
+
+
+
+Bird, Kirtland's Warbler, Endangered, St. Croix WMD, 
+WI, 
+
+
+
+Bird, Kirtland's Warbler, Endangered, Kirtlands Warbler WMA, 
+MI, 
+
+
+
+Bird, Laysan Duck, Endangered, Hawaiian Islands NWR, 
+HI, 
+
+
+
+Bird, Laysan Finch, Endangered, Hawaiian Islands NWR, 
+HI, 
+
+
+
+Bird, Least Bell's Vireo, Endangered, San Diego Bay NWR, 
+CA, 
+
+
+
+Bird, Least Bell's Vireo, Endangered, Tijuana Slough  NWR, 
+CA, 
+
+
+
+Bird, Least Bell's Vireo, Endangered, San Diego NWR, 
+CA, 
+
+
+
+Bird, Least Tern  (Interior), Endangered, Bald Knob NWR, 
+AR, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Colorado River WMA, 
+UT, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Boyer Chute NWR, 
+NE, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Patoka River NWR, 
+IN, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Buffalo Lake NWR (TX), 
+TX, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Tishomingo NWR, 
+OK, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Big Muddy National Fish and Wildlife Refuge, 
+MO, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Optima NWR, 
+OK, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Washita NWR, 
+OK, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Marais des Cygnes NWR, 
+KS, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Cypress Creek NWR, 
+IL, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Squaw Creek NWR, 
+MO, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Deep Fork NWR, 
+OK, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Bitter Lake NWR, 
+NM, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Chickasaw NWR, 
+TN, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Cross Creeks NWR, 
+TN, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Sequoyah NWR, 
+OK, 
+
+
+
+Bird, Least Tern (Interior), Endangered, DeSoto NWR, 
+IA, NE, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Salt Plains NWR, 
+OK, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Little River NWR, 
+OK, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Hagerman NWR, 
+TX, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Sand Lake NWR , 
+SD, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Lake Nettie NWR, 
+ND, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Long Lake NWR, 
+ND, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Quivira NWR, 
+KS, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Rainwater Basin WMD, 
+NE, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Sand Lake WMD, 
+SD, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Audubon WMD, 
+ND, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Audubon NWR, 
+ND, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Charles M. Russell NWR, 
+MT, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Lower Hatchie NWR, 
+TN, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Mathews Brake NWR, 
+MS, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Lake Isom NWR, 
+TN, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Hillside NWR, 
+MS, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Reelfoot NWR, 
+KY, TN, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Overflow NWR, 
+AR, 
+
+
+
+Bird, Least Tern (Interior), Endangered, Yazoo NWR , 
+MS, 
+
+
+
+Bird, Least Tern Interior, Endangered, St. Catherine Creek NWR, 
+MS, 
+
+
+
+Bird, Least Tern, California, Endangered, Guadalupe-Nipomo Dunes NWR, 
+CA, 
+
+
+
+Bird, Least Tern, California, Endangered, San Diego Bay NWR, 
+CA, 
+
+
+
+Bird, Least Tern, California, Endangered, Tijuana Slough  NWR, 
+CA, 
+
+
+
+Bird, Least Tern, California, Endangered, Seal Beach  NWR, 
+CA, 
+
+
+
+Bird, Least Tern, California, Endangered, Don Edwards San Francisco Bay  NWR, 
+CA, 
+
+
+
+Bird, Least Tern, California, Endangered, San Pablo Bay NWR, 
+CA, 
+
+
+
+Bird, Marbled Murrelet, Threatened, Cape Meares NWR, 
+OR, 
+
+
+
+Bird, Mariana Common Moorhen, Endangered, Guam NWR, 
+GU, 
+
+
+
+Bird, Mariana Crow, Endangered, Guam NWR, 
+GU, 
+
+
+
+Bird, Masked Bobwhite, Endangered, Buenos Aires NWR, 
+AZ, 
+
+
+
+Bird, Mississippi Sandhill Crane, Endangered, Mississippi Sandhill Crane NWR, 
+MS, 
+
+
+
+Bird, Mountain Plover, Proposed, North Dakota WMA, 
+ND, 
+
+
+
+Bird, Nihoa Finch, Endangered, Hawaiian Islands NWR, 
+HI, 
+
+
+
+Bird, Nihoa Millerbird, Endangered, Hawaiian Islands NWR, 
+HI, 
+
+
+
+Bird, Northern Aplomado Falcon, Endangered, Laguna Atascosa NWR, 
+TX, 
+
+
+
+Bird, Northern Aplomado Falcon, Threatened, Lower Rio Grande Valley NWR, 
+TX, 
+
+
+
+Bird, Northern Aplomado Falcon, Endangered, Santa Ana NWR, 
+TX, 
+
+
+
+Bird, Northern Spotted Owl, Threatened, Cape Meares NWR, 
+OR, 
+
+
+
+Bird, Oahu Elepaio, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Bird, 'O'u (honeycreeper), Endangered, Hakalau Forest NWR, 
+HI, 
+
+
+
+Bird, Piping Plover, Threatened, Brazoria NWR, 
+TX, 
+
+
+
+Bird, Piping Plover, Threatened, Aransas NWR, 
+TX, 
+
+
+
+Bird, Piping Plover, Threatened, Anahuac NWR, 
+TX, 
+
+
+
+Bird, Piping Plover, Threatened, Big Boggy NWR, 
+TX, 
+
+
+
+Bird, Piping Plover, Threatened, Santa Ana NWR, 
+TX, 
+
+
+
+Bird, Piping Plover, Threatened, Texas Point NWR, 
+TX, 
+
+
+
+Bird, Piping Plover, Threatened, San Bernard NWR, 
+TX, 
+
+
+
+Bird, Piping Plover, Threatened, McFaddin NWR, 
+TX, 
+
+
+
+Bird, Piping Plover, Threatened, Laguna Atascosa NWR, 
+TX, 
+
+
+
+Bird, Piping Plover, Threatened, Lower Rio Grande Valley NWR, 
+TX, 
+
+
+
+Bird, Piping Plover, Threatened, Hagerman NWR, 
+TX, 
+
+
+
+Bird, Piping Plover, Threatened, Currituck NWR, 
+NC, 
+
+
+
+Bird, Piping Plover, Threatened, Cedar Keys NWR, 
+FL, 
+
+
+
+Bird, Piping Plover, Threatened, Cape Romain NWR, 
+SC, 
+
+
+
+Bird, Piping Plover, Threatened, Fergus Falls WMD, 
+MN, 
+
+
+
+Bird, Piping Plover, Threatened, Morris WMD, 
+MN, 
+
+
+
+Bird, Piping Plover, Threatened, Bon Secour NWR, 
+AL, 
+
+
+
+Bird, Piping Plover, Threatened, Blackbeard Island NWR, 
+GA, 
+
+
+
+Bird, Piping Plover, Threatened, Merritt Island NWR, 
+FL, 
+
+
+
+Bird, Piping Plover, Threatened, Lower Suwannee NWR, 
+FL, 
+
+
+
+Bird, Piping Plover, Threatened, Hobe Sound NWR, 
+FL, 
+
+
+
+Bird, Piping Plover, Threatened, Back Bay NWR, 
+VA, 
+
+
+
+Bird, Piping Plover, Threatened, Wolf Island NWR, 
+GA, 
+
+
+
+Bird, Piping Plover, Threatened, Wassaw NWR, 
+GA, 
+
+
+
+Bird, Piping Plover, Threatened, St. Marks NWR, 
+FL, 
+
+
+
+Bird, Piping Plover, Threatened, St. Vincent NWR, 
+FL, 
+
+
+
+Bird, Piping Plover, Threatened, Pea Island NWR, 
+NC, 
+
+
+
+Bird, Piping Plover, Threatened, Pinckney Island NWR, 
+SC, 
+
+
+
+Bird, Piping Plover, Threatened, Buffalo Lake NWR (ND), 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Audubon WMD, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Bowdoin NWR, 
+MT, 
+
+
+
+Bird, Piping Plover, Threatened, Charles M. Russell NWR, 
+MT, 
+
+
+
+Bird, Piping Plover, Threatened, Cottonwood Lake NWR, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Crosby WMD, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Devils Lake WMD, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, J. Clark Salyer NWR, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, J. Clark Salyer WMD, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Lacreek NWR, 
+SD, 
+
+
+
+Bird, Piping Plover, Threatened, Lake Alice NWR, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Kulm WMD, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Lake Ilo NWR, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Benton Lake NWR , 
+MT, 
+
+
+
+Bird, Piping Plover, Threatened, Arrowwood NWR, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Chase Lake Prairie Project WMD, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Audubon NWR, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Parker River NWR, 
+MA, 
+
+
+
+Bird, Piping Plover, Threatened, Rachel Carson NWR, 
+ME, 
+
+
+
+Bird, Piping Plover, Threatened, Sachuest Point NWR, 
+RI, 
+
+
+
+Bird, Piping Plover, Threatened, Trustom Pond NWR, 
+RI, 
+
+
+
+Bird, Piping Plover, Threatened, Chincoteague NWR, 
+MD, VA, 
+
+
+
+Bird, Piping Plover, Threatened, Edwin B. Forsythe NWR, 
+NJ, 
+
+
+
+Bird, Piping Plover, Threatened, Elizabeth A. Morton NWR, 
+NY, 
+
+
+
+Bird, Piping Plover, Threatened, Fisherman Island NWR, 
+VA, 
+
+
+
+Bird, Piping Plover, Threatened, Monomoy NWR, 
+MA, 
+
+
+
+Bird, Piping Plover, Threatened, Nantucket NWR, 
+MA, 
+
+
+
+Bird, Piping Plover, Threatened, Ninigret NWR, 
+RI, 
+
+
+
+Bird, Piping Plover, Threatened, Rainwater Basin WMD, 
+NE, 
+
+
+
+Bird, Piping Plover, Threatened, Quivira NWR, 
+KS, 
+
+
+
+Bird, Piping Plover, Threatened, Medicine Lake WMD, 
+MT, 
+
+
+
+Bird, Piping Plover, Threatened, Long Lake WMD, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Lake Nettie NWR, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Long Lake NWR, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Lostwood NWR, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Lostwood WMD, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Medicine Lake NWR, 
+MT, 
+
+
+
+Bird, Piping Plover, Threatened, Sand Lake WMD, 
+SD, 
+
+
+
+Bird, Piping Plover, Threatened, Sand Lake NWR , 
+SD, 
+
+
+
+Bird, Piping Plover, Threatened, Willow Lake NWR, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Wintering River NWR , 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, North Dakota WMA, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Upper Souris NWR, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Waccamaw NWR, 
+SC, 
+
+
+
+Bird, Piping Plover, Threatened, Waccamaw NWR, 
+SC, 
+
+
+
+Bird, Piping Plover, Threatened, Bald Knob NWR, 
+AR, 
+
+
+
+Bird, Piping Plover, Threatened, Trinity River NWR, 
+TX, 
+
+
+
+Bird, Piping Plover, Threatened, Tishomingo NWR, 
+OK, 
+
+
+
+Bird, Piping Plover, Threatened, Bayou Sauvage NWR, 
+LA, 
+
+
+
+Bird, Piping Plover, Threatened, Breton NWR, 
+LA, 
+
+
+
+Bird, Piping Plover, Threatened, Mashpee NWR, 
+MA, 
+
+
+
+Bird, Piping Plover, Endangered, Big Branch Marsh NWR, 
+LA, 
+
+
+
+Bird, Piping Plover, Threatened, Amagansett NWR, 
+NY, 
+
+
+
+Bird, Piping Plover, Threatened, Chase Lake Prairie Project WMD, 
+ND, 
+
+
+
+Bird, Piping Plover, Threatened, Tybee NWR, 
+SC, 
+
+
+
+Bird, Piping Plover, Threatened, Pond Island NWR, 
+ME, 
+
+
+
+Bird, Piping Plover, Threatened, Hutchinson Lake NWR, 
+ND, 
+
+
+
+Bird, Piping Plover, Endangered, Iowa WMD, 
+IA, 
+
+
+
+Bird, Piping Plover, Endangered, Clarence Cannon NWR, 
+MO, 
+
+
+
+Bird, Piping Plover, Endangered, DeSoto NWR, 
+IA, NE, 
+
+
+
+Bird, Piping Plover, Endangered, Target Rock NWR, 
+NY, 
+
+
+
+Bird, Piping Plover, Threatened, Marais des Cygnes NWR, 
+KS, 
+
+
+
+Bird, Piping Plover, Endangered, Cedar Island NWR, 
+NC, 
+
+
+
+Bird, Piping Plover, Endangered, Delta NWR, 
+LA, 
+
+
+
+Bird, Piping Plover, Endangered, Shell Keys NWR, 
+LA, 
+
+
+
+Bird, Red-cockaded Woodpecker, Endangered, Upper Ouachita NWR, 
+LA, 
+
+
+
+Bird, Red-cockaded Woodpecker, Endangered, Ernest F. Hollings ACE Basin NWR, 
+SC, 
+
+
+
+Bird, Red-cockaded Woodpecker, Endangered, Big Branch Marsh NWR, 
+LA, 
+
+
+
+Bird, Red-cockaded Woodpecker, Endangered, Felsenthal NWR, 
+AR, 
+
+
+
+Bird, Red-cockaded Woodpecker, Endangered, Pee Dee NWR, 
+NC, 
+
+
+
+Bird, Red-cockaded Woodpecker, Endangered, Piedmont NWR, 
+GA, 
+
+
+
+Bird, Red-cockaded Woodpecker, Endangered, Santee NWR, 
+SC, 
+
+
+
+Bird, Red-cockaded Woodpecker, Endangered, Noxubee NWR, 
+MS, 
+
+
+
+Bird, Red-cockaded Woodpecker, Endangered, Okefenokee NWR, 
+GA, FL, 
+
+
+
+Bird, Red-cockaded Woodpecker, Endangered, St. Marks NWR, 
+FL, 
+
+
+
+Bird, Red-cockaded Woodpecker, Endangered, Florida Panther NWR, 
+FL, 
+
+
+
+Bird, Red-cockaded Woodpecker, Endangered, Mississippi Sandhill Crane NWR, 
+MS, 
+
+
+
+Bird, Red-cockaded Woodpecker, Endangered, Alligator River NWR, 
+NC, 
+
+
+
+Bird, Red-cockaded Woodpecker, Endangered, Carolina Sandhills NWR, 
+SC, 
+
+
+
+Bird, Red-cockaded Woodpecker, Endangered, D'Arbonne NWR, 
+LA, 
+
+
+
+Bird, Roseate Tern, Threatened, Culebra NWR, 
+PR, 
+
+
+
+Bird, Roseate Tern, Threatened, Merritt Island NWR, 
+FL, 
+
+
+
+Bird, Roseate Tern, Threatened, Key West NWR, 
+FL, 
+
+
+
+Bird, Roseate Tern, Endangered, Ninigret NWR, 
+RI, 
+
+
+
+Bird, Roseate Tern, Endangered, Monomoy NWR, 
+MA, 
+
+
+
+Bird, Roseate Tern, Endangered, Elizabeth A. Morton NWR, 
+NY, 
+
+
+
+Bird, Roseate Tern, Endangered, Trustom Pond NWR, 
+RI, 
+
+
+
+Bird, Roseate Tern, Endangered, Stewart B. McKinney NWR, 
+CT, 
+
+
+
+Bird, Roseate Tern, Endangered, Rachel Carson NWR, 
+ME, 
+
+
+
+Bird, Roseate Tern, Endangered, Petit Manan NWR, 
+ME, 
+
+
+
+Bird, Roseate Tern, Endangered, Mashpee NWR, 
+MA, 
+
+
+
+Bird, Roseate Tern, Endangered, Pond Island NWR, 
+ME, 
+
+
+
+Bird, Short-tailed Albatross, Endangered, Midway Atoll  NWR, 
+UM, 
+
+
+
+Bird, Southwestern Willow Flycatcher, Endangered, Colorado River WMA, 
+UT, 
+
+
+
+Bird, Southwestern Willow Flycatcher, Endangered, San Diego NWR, 
+CA, 
+
+
+
+Bird, Southwestern Willow Flycatcher, Endangered, Bosque del Apache NWR, 
+NM, 
+
+
+
+Bird, Southwestern Willow Flycatcher, Endangered, Maxwell NWR, 
+NM, 
+
+
+
+Bird, Southwestern Willow Flycatcher, Endangered, Sevilleta NWR, 
+NM, 
+
+
+
+Bird, Southwestern Willow Flycatcher, Endangered, Bill Williams River NWR, 
+AZ, 
+
+
+
+Bird, Southwestern Willow Flycatcher, Endangered, Cibola NWR, 
+AZ, CA, 
+
+
+
+Bird, Southwestern Willow Flycatcher, Endangered, Havasu NWR, 
+AZ, CA, 
+
+
+
+Bird, Southwestern Willow Flycatcher, Endangered, Imperial NWR, 
+AZ, CA, 
+
+
+
+Bird, Spectacled Eider, Endangered, Yukon Delta NWR, 
+AK, 
+
+
+
+Bird, Spectacled Eider, Endangered, Arctic NWR, 
+AK, 
+
+
+
+Bird, Spectacled Eider, Endangered, Alaska Maritime NWR, 
+AK, 
+
+
+
+Bird, Spectacled Eider, Endangered, Togiak NWR, 
+AK, 
+
+
+
+Bird, Steller's Eider, Threatened, Arctic NWR, 
+AK, 
+
+
+
+Bird, Steller's Eider, Threatened, Alaska Maritime NWR, 
+AK, 
+
+
+
+Bird, Steller's Eider, Threatened, Alaska Peninsula NWR, 
+AK, 
+
+
+
+Bird, Steller's Eider, Threatened, Becharof NWR, 
+AK, 
+
+
+
+Bird, Steller's Eider, Threatened, Izembek NWR, 
+AK, 
+
+
+
+Bird, Steller's Eider, Threatened, Kodiak NWR, 
+AK, 
+
+
+
+Bird, Steller's Eider, Threatened, Selawik NWR, 
+AK, 
+
+
+
+Bird, Steller's Eider, Threatened, Togiak NWR, 
+AK, 
+
+
+
+Bird, Steller's Eider, Threatened, Yukon Delta NWR, 
+AK, 
+
+
+
+Bird, Vanikoro Swiftlet, Endangered, Guam NWR, 
+GU, 
+
+
+
+Bird, Western Snowy Plover (Pacific coast population), Threatened, Humboldt Bay NWR, 
+CA, 
+
+
+
+Bird, Western Snowy Plover (Pacific coast population), Threatened, Tijuana Slough  NWR, 
+CA, 
+
+
+
+Bird, Western Snowy Plover (Pacific coast population), Threatened, San Diego Bay NWR, 
+CA, 
+
+
+
+Bird, Western Snowy Plover (Pacific coast population), Threatened, Guadalupe-Nipomo Dunes NWR, 
+CA, 
+
+
+
+Bird, Western Snowy Plover (Pacific coast population), Threatened, Farallon  NWR, 
+CA, 
+
+
+
+Bird, Western Snowy Plover (Pacific coast population), Threatened, Seal Beach  NWR, 
+CA, 
+
+
+
+Bird, Western Snowy Plover (Pacific coast population), Threatened, Willapa   NWR, 
+WA, 
+
+
+
+Bird, Western Snowy Plover (Pacific coast population), Threatened, San Pablo Bay NWR, 
+CA, 
+
+
+
+Bird, Western Snowy Plover (Pacific coast population), Threatened, Don Edwards San Francisco Bay  NWR, 
+CA, 
+
+
+
+Bird, Western Snowy Plover (Pacific coast population), Threatened, Salinas River NWR, 
+CA, 
+
+
+
+Bird, Western Snowy Plover (Pacific coast population), Threatened, Bandon Marsh NWR, 
+OR, 
+
+
+
+Bird, Whooping Crane, Endangered, Bear Lake NWR, 
+ID, 
+
+
+
+Bird, Whooping Crane, Endangered, Grays Lake NWR, 
+ID, 
+
+
+
+Bird, Whooping Crane, Endangered, Bosque del Apache NWR, 
+NM, 
+
+
+
+Bird, Whooping Crane, Endangered, Las Vegas NWR, 
+NM, 
+
+
+
+Bird, Whooping Crane, Endangered, Aransas NWR, 
+TX, 
+
+
+
+Bird, Whooping Crane, Endangered, Optima NWR, 
+OK, 
+
+
+
+Bird, Whooping Crane, Endangered, Salt Plains NWR, 
+OK, 
+
+
+
+Bird, Whooping Crane, Endangered, Washita NWR, 
+OK, 
+
+
+
+Bird, Whooping Crane, Endangered, Wintering River NWR , 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Willow Lake NWR, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Medicine Lake NWR, 
+MT, 
+
+
+
+Bird, Whooping Crane, Endangered, Monte Vista NWR, 
+CO, 
+
+
+
+Bird, Whooping Crane, Endangered, National Elk Refuge, 
+WY, 
+
+
+
+Bird, Whooping Crane, Endangered, Medicine Lake WMD, 
+MT, 
+
+
+
+Bird, Whooping Crane, Endangered, Lords Lake NWR, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Lake Nettie NWR, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Lake Zahl NWR, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Long Lake WMD, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Crosby WMD, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Long Lake NWR, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Ouray NWR, 
+UT, 
+
+
+
+Bird, Whooping Crane, Endangered, Rabb Lake NWR, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Rainwater Basin WMD, 
+NE, 
+
+
+
+Bird, Whooping Crane, Endangered, Red Rock Lakes NWR, 
+MT, 
+
+
+
+Bird, Whooping Crane, Endangered, Quivira NWR, 
+KS, 
+
+
+
+Bird, Whooping Crane, Endangered, School Section Lake NWR, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Upper Souris NWR, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Valentine NWR, 
+NE, 
+
+
+
+Bird, Whooping Crane, Endangered, Alamosa NWR , 
+CO, 
+
+
+
+Bird, Whooping Crane, Endangered, Audubon NWR, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Chase Lake Prairie Project WMD, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Lake Ilo NWR, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Lake Andes WMD, 
+SD, 
+
+
+
+Bird, Whooping Crane, Endangered, Lake Andes NWR, 
+SD, 
+
+
+
+Bird, Whooping Crane, Endangered, J. Clark Salyer WMD, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Kirwin NWR, 
+KS, 
+
+
+
+Bird, Whooping Crane, Endangered, Kulm WMD, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Fort Niobrara NWR, 
+NE, 
+
+
+
+Bird, Whooping Crane, Endangered, J. Clark Salyer NWR, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Devils Lake WMD, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Cottonwood Lake NWR, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Buffalo Lake NWR (ND), 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Audubon WMD, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Chase Lake NWR, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, North Dakota WMA, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Sevilleta NWR, 
+NM, 
+
+
+
+Bird, Whooping Crane, Endangered, Cokeville Meadows NWR, 
+WY, 
+
+
+
+Bird, Whooping Crane, Endangered, Lostwood NWR, 
+ND, 
+
+
+
+Bird, Whooping Crane, Endangered, Chase Lake Prairie Project WMD, 
+ND, 
+
+
+
+Bird, Wood Stork, Endangered, Choctaw NWR, 
+AL, 
+
+
+
+Bird, Wood Stork, Endangered, Bond Swamp NWR, 
+GA, 
+
+
+
+Bird, Wood Stork, Endangered, Ten Thousand Islands NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, Pine Island NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, Ernest F. Hollings ACE Basin NWR, 
+SC, 
+
+
+
+Bird, Wood Stork, Endangered, Waccamaw NWR, 
+SC, 
+
+
+
+Bird, Wood Stork, Endangered, Wolf Island NWR, 
+GA, 
+
+
+
+Bird, Wood Stork, Endangered, Lake Woodruff NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, Harris Neck NWR, 
+GA, 
+
+
+
+Bird, Wood Stork, Endangered, Hobe Sound NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, J. N. Ding Darling NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, Florida Panther NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, Eufaula NWR, 
+AL, GA, 
+
+
+
+Bird, Wood Stork, Endangered, National Key Deer Refuge, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, Merritt Island NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, Lower Suwannee NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, St. Marks NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, St. Johns NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, St. Vincent NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, Wassaw NWR, 
+GA, 
+
+
+
+Bird, Wood Stork, Endangered, Okefenokee NWR, 
+GA, FL, 
+
+
+
+Bird, Wood Stork, Endangered, Pinellas NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, Caloosahatchee NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, Savannah NWR, 
+GA, SC, 
+
+
+
+Bird, Wood Stork, Endangered, Pinckney Island NWR, 
+SC, 
+
+
+
+Bird, Wood Stork, Endangered, Pelican Island NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, Crocodile Lake NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, Cape Romain NWR, 
+SC, 
+
+
+
+Bird, Wood Stork, Endangered, Chassahowitzka NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, Arthur R. Marshall Loxahatchee NWR, 
+FL, 
+
+
+
+Bird, Wood Stork, Endangered, Banks Lake NWR, 
+GA, 
+
+
+
+Bird, Wood Stork, Endangered, Blackbeard Island NWR, 
+GA, 
+
+
+
+Bird, Yellow-shouldered Blackbird, Endangered, Cabo Rojo NWR, 
+PR, 
+
+
+
+Bird, Yellow-shouldered Blackbird, Endangered, Laguna Cartagena NWR, 
+PR, 
+
+
+
+Clam, Clubshell, Endangered, Erie NWR, 
+PA, 
+
+
+
+Clam, Fanshell, Endangered, Ottawa NWR, 
+OH, 
+
+
+
+Clam, Fanshell, Endangered, Ohio River Islands NWR, 
+KY, PA, WV, 
+
+
+
+Clam, Fat Pocketbook, Endangered, Patoka River NWR, 
+IN, 
+
+
+
+Clam, Finelined pocketbook, Threatened, Cahaba River National Wildlife Refuge, 
+AL, 
+
+
+
+Clam, Higgins' Eye Pearly Mussel, Endangered, Great River NWR, 
+IA, IL, MO, 
+
+
+
+Clam, Higgins' Eye Pearly Mussel, Endangered, Great River NWR, 
+IA, IL, MO, 
+
+
+
+Clam, Higgins' Eye Pearly Mussel, Endangered, Great River NWR, 
+IA, IL, MO, 
+
+
+
+Clam, Higgins' Eye Pearly Mussel, Endangered, St. Croix WMD, 
+WI, 
+
+
+
+Clam, Higgins' Eye Pearly Mussel, Endangered, Great River NWR, 
+IA, IL, MO, 
+
+
+
+Clam, Higgins' Eye Pearly Mussel, Endangered, Upper Mississippi River National Wildlife and Fish Refuge, 
+IA, IL, MN, WI, 
+
+
+
+Clam, Orange-footed Pearly Mussel, Endangered, Tennessee NWR, 
+TN, 
+
+
+
+Clam, Pink Mucket Pearly Mussel, Endangered, Tennessee NWR, 
+TN, 
+
+
+
+Clam, Pink Mucket Pearly Mussel, Endangered, Ohio River Islands NWR, 
+KY, PA, WV, 
+
+
+
+Clam, Ring Pink Mussel, Endangered, Tennessee NWR, 
+TN, 
+
+
+
+Clam, Rough Pigtoe, Endangered, Tennessee NWR, 
+TN, 
+
+
+
+Clam, Triangular kidneyshell, Endangered, Cahaba River National Wildlife Refuge, 
+AL, 
+
+
+
+Clam, upland combshell, Endangered, Cahaba River National Wildlife Refuge, 
+AL, 
+
+
+
+Clam, Winged Mapleleaf Mussel, Endangered, Litchfield WMD, 
+MN, 
+
+
+
+Clam, Winged Mapleleaf Mussel, Endangered, St. Croix WMD, 
+WI, 
+
+
+
+Crustacean, Cambarus aculabrum  (crayfish with no common name), Endangered, Logan Cave NWR, 
+AR, 
+
+
+
+Crustacean, Riverside Fairy Shrimp, Endangered, San Diego NWR, 
+CA, 
+
+
+
+Crustacean, San Diego Fairy Shrimp, Endangered, San Diego NWR, 
+CA, 
+
+
+
+Crustacean, Vernal Pool Tadpole Shrimp, Endangered, Don Edwards San Francisco Bay  NWR, 
+CA, 
+
+
+
+Fish, Alabama Cavefish, Endangered, Key Cave NWR, 
+AL, 
+
+
+
+Fish, Ash Meadows Amargosa Pupfish, Endangered, Ash Meadows NWR, 
+NV, 
+
+
+
+Fish, Ash Meadows Speckled Dace, Endangered, Ash Meadows NWR, 
+NV, 
+
+
+
+Fish, Beautiful Shiner, Threatened, San Bernardino NWR, 
+AZ, 
+
+
+
+Fish, Bonytail Chub, Endangered, Ouray NWR, 
+UT, 
+
+
+
+Fish, Bonytail Chub, Endangered, Bill Williams River NWR, 
+AZ, 
+
+
+
+Fish, Cahaba shiner, Endangered, Cahaba River National Wildlife Refuge, 
+AL, 
+
+
+
+Fish, Chinook Salmon, Threatened, Willow Creek-Lurline WMA, 
+CA, 
+
+
+
+Fish, Chinook Salmon, Threatened, North Central Valley WMA, 
+CA, 
+
+
+
+Fish, Colorado Pikeminnow, Endangered, Bill Williams River NWR, 
+AZ, 
+
+
+
+Fish, Colorado Pikeminnow, Endangered, Ouray NWR, 
+UT, 
+
+
+
+Fish, Colorado Pikeminnow, Endangered, Havasu NWR, 
+AZ, CA, 
+
+
+
+Fish, Desert Pupfish, Endangered, Sonny Bono Salton Sea  NWR, 
+CA, 
+
+
+
+Fish, Devil's Hole Pupfish, Endangered, Ash Meadows NWR, 
+NV, 
+
+
+
+Fish, Gila Topminnow (includes Yaqui Topminnow), Endangered, San Bernardino NWR, 
+AZ, 
+
+
+
+Fish, Gila Topminnow (includes Yaqui Topminnow), Endangered, Leslie Canyon NWR, 
+AZ, 
+
+
+
+Fish, Goldline darter, Threatened, Cahaba River National Wildlife Refuge, 
+AL, 
+
+
+
+Fish, Gulf Sturgeon, Threatened, Bogue Chitto NWR, 
+LA, MS, 
+
+
+
+Fish, Humpback Chub, Endangered, Bill Williams River NWR, 
+AZ, 
+
+
+
+Fish, Humpback Chub, Endangered, Ouray NWR, 
+UT, 
+
+
+
+Fish, Lost River Sucker, Endangered, Tule Lake NWR, 
+CA, 
+
+
+
+Fish, Lost River Sucker, Endangered, Lower Klamath NWR, 
+CA, OR, 
+
+
+
+Fish, Lost River Sucker, Endangered, Clear Lake NWR, 
+CA, 
+
+
+
+Fish, Lost River Sucker, Endangered, Upper Klamath NWR, 
+OR, 
+
+
+
+Fish, Moapa Dace, Endangered, Moapa Valley NWR, 
+NV, 
+
+
+
+Fish, Neosho Madtom, Threatened, Flint Hills NWR, 
+KS, 
+
+
+
+Fish, Oregon Chub, Endangered, William L. Finley NWR, 
+OR, 
+
+
+
+Fish, Ozark Cavefish, Threatened, Logan Cave NWR, 
+AR, 
+
+
+
+Fish, Ozark Cavefish, Threatened, Ozark Cavefish NWR, 
+MO, 
+
+
+
+Fish, Pahrump Poolfish, Threatened, Desert National Wildlife Range, 
+NV, 
+
+
+
+Fish, Pallid Sturgeon, Endangered, Ul Bend NWR, 
+MT, 
+
+
+
+Fish, Pallid Sturgeon, Endangered, Audubon NWR, 
+ND, 
+
+
+
+Fish, Pallid Sturgeon, Endangered, Charles M. Russell NWR, 
+MT, 
+
+
+
+Fish, Pallid Sturgeon, Endangered, Swan Lake NWR, 
+MO, 
+
+
+
+Fish, Pallid Sturgeon, Endangered, DeSoto NWR, 
+IA, NE, 
+
+
+
+Fish, Pallid Sturgeon, Endangered, Atchafalaya NWR, 
+LA, 
+
+
+
+Fish, Pallid Sturgeon, Endangered, Delta NWR, 
+LA, 
+
+
+
+Fish, Pallid Sturgeon, Endangered, Big Muddy National Fish and Wildlife Refuge, 
+MO, 
+
+
+
+Fish, Pallid Sturgeon, Endangered, North Dakota WMA, 
+ND, 
+
+
+
+Fish, Pecos Bluntnose Shiner, Threatened, Bitter Lake NWR, 
+NM, 
+
+
+
+Fish, Pecos Gambusia, Endangered, Bitter Lake NWR, 
+NM, 
+
+
+
+Fish, Pygmy Madtom, Endangered, Tennessee NWR, 
+TN, 
+
+
+
+Fish, Razorback Sucker, Endangered, Ouray NWR, 
+UT, 
+
+
+
+Fish, Razorback Sucker, Endangered, Bill Williams River NWR, 
+AZ, 
+
+
+
+Fish, Rio Grande Silvery Minnow, Endangered, Sevilleta NWR, 
+NM, 
+
+
+
+Fish, Rio Grande Silvery Minnow, Endangered, Bosque del Apache NWR, 
+NM, 
+
+
+
+Fish, Shortnose Sturgeon, Endangered, Ernest F. Hollings ACE Basin NWR, 
+SC, 
+
+
+
+Fish, Shortnose Sturgeon, Endangered, Savannah NWR, 
+GA, SC, 
+
+
+
+Fish, Short-nose Sucker, Endangered, Upper Klamath NWR, 
+OR, 
+
+
+
+Fish, Short-nose Sucker, Endangered, Lower Klamath NWR, 
+CA, OR, 
+
+
+
+Fish, Short-nose Sucker, Endangered, Clear Lake NWR, 
+CA, 
+
+
+
+Fish, Short-nose Sucker, Endangered, Tule Lake NWR, 
+CA, 
+
+
+
+Fish, Tidewater Goby, Endangered, Guadalupe-Nipomo Dunes NWR, 
+CA, 
+
+
+
+Fish, Topeka Shiner, Endangered, North Dakota WMA, 
+ND, 
+
+
+
+Fish, Topeka Shiner, Endangered, North Dakota WMA, 
+ND, 
+
+
+
+Fish, Warm Springs Pupfish, Endangered, Ash Meadows NWR, 
+NV, 
+
+
+
+Fish, Watercress Darter, Endangered, Watercress Darter NWR, 
+AL, 
+
+
+
+Fish, White Sturgeon, Kootenai River population, Endangered, Kootenai NWR, 
+ID, 
+
+
+
+Fish, Yaqui Catfish, Endangered, San Bernardino NWR, 
+AZ, 
+
+
+
+Fish, Yaqui Chub, Endangered, San Bernardino NWR, 
+AZ, 
+
+
+
+Fish, Yaqui Chub, Endangered, Leslie Canyon NWR, 
+AZ, 
+
+
+
+Insect, American Burying Beetle, Endangered, Valentine NWR, 
+NE, 
+
+
+
+Insect, American Burying Beetle, Endangered, Sequoyah NWR, 
+OK, 
+
+
+
+Insect, American Burying Beetle, Endangered, Block Island NWR, 
+RI, 
+
+
+
+Insect, American burying beetle, Endangered, North Dakota WMA, 
+ND, 
+
+
+
+Insect, Ash Meadows Naucorid, Endangered, Ash Meadows NWR, 
+NV, 
+
+
+
+Insect, Hine's Emerarld Dragonfly, Endangered, Leopold WMD, 
+WI, 
+
+
+
+Insect, Karner Blue Butterfly, Endangered, Leopold WMD, 
+WI, 
+
+
+
+Insect, Karner Blue Butterfly, Endangered, St. Croix WMD, 
+WI, 
+
+
+
+Insect, Karner Blue Butterfly, Endangered, Necedah NWR, 
+WI, 
+
+
+
+Insect, Lange's Metalmark Butterfly, Endangered, Antioch Dunes NWR, 
+CA, 
+
+
+
+Insect, Quino Checkerspot Butterfly, Endangered, San Diego NWR, 
+CA, 
+
+
+
+Insect, Schaus Swallowtail Butterfly, Endangered, Crocodile Lake NWR, 
+FL, 
+
+
+
+Insect, Smith's Blue Butterfly, Endangered, Salinas River NWR, 
+CA, 
+
+
+
+Insect, Valley Elderberry Longhorn Beetle, Threatened, Sacramento River NWR, 
+CA, 
+
+
+
+Insect, Valley Elderberry Longhorn Beetle, Threatened, North Central Valley WMA, 
+CA, 
+
+
+
+Insect, Valley Elderberry Longhorn Beetle, Threatened, Willow Creek-Lurline WMA, 
+CA, 
+
+
+
+Insect, Valley Elderberry Longhorn Beetle, Threatened, Stone Lakes NWR, 
+CA, 
+
+
+
+Mammal, Alabama Beach Mouse, Endangered, Bon Secour NWR, 
+AL, 
+
+
+
+Mammal, Blue Whale, Endangered, Alaska Maritime NWR, 
+AK, 
+
+
+
+Mammal, Bowhead Whale, Endangered, Alaska Maritime NWR, 
+AK, 
+
+
+
+Mammal, Bowhead Whale, Endangered, Arctic NWR, 
+AK, 
+
+
+
+Mammal, Columbian White-tailed Deer, Endangered, Lewis and Clark NWR, 
+OR, 
+
+
+
+Mammal, Columbian White-tailed Deer, Endangered, Julia Butler Hansen Refuge for the Columbian White-tail Deer, 
+OR, WA, 
+
+
+
+Mammal, Delmarva Peninsula Fox Squirrel, Endangered, Eastern Neck NWR, 
+MD, 
+
+
+
+Mammal, Delmarva Peninsula Fox Squirrel, Endangered, Chincoteague NWR, 
+MD, VA, 
+
+
+
+Mammal, Delmarva Peninsula Fox Squirrel, Endangered, Prime Hook NWR, 
+DE, 
+
+
+
+Mammal, Delmarva Peninsula Fox Squirrel, Endangered, Blackwater NWR, 
+MD, 
+
+
+
+Mammal, Dismal Swamp Southeastern Shrew, Threatened, Great Dismal Swamp NWR, 
+NC, VA, 
+
+
+
+Mammal, Eastern Puma (probably extinct), Endangered, Tennessee NWR, 
+TN, 
+
+
+
+Mammal, Eastern Puma (probably extinct), Endangered, Cross Creeks NWR, 
+TN, 
+
+
+
+Mammal, Eastern Puma (probably extinct), Endangered, Carolina Sandhills NWR, 
+SC, 
+
+
+
+Mammal, Finback Whale, Endangered, Alaska Maritime NWR, 
+AK, 
+
+
+
+Mammal, Finback Whale, Endangered, Kodiak NWR, 
+AK, 
+
+
+
+Mammal, Finback Whale, Endangered, Kodiak NWR, 
+AK, 
+
+
+
+Mammal, Florida Panther, Endangered, Arthur R. Marshall Loxahatchee NWR, 
+FL, 
+
+
+
+Mammal, Florida Panther, Endangered, Okefenokee NWR, 
+GA, FL, 
+
+
+
+Mammal, Florida Panther, Endangered, Florida Panther NWR, 
+FL, 
+
+
+
+Mammal, Gray Bat, Endangered, Fern Cave NWR, 
+AL, 
+
+
+
+Mammal, Gray Bat, Endangered, Logan Cave NWR, 
+AR, 
+
+
+
+Mammal, Gray Bat, Endangered, Wheeler NWR , 
+AL, 
+
+
+
+Mammal, Gray Bat, Endangered, Sauta Cave NWR, 
+AL, 
+
+
+
+Mammal, Gray Bat, Endangered, Cross Creeks NWR, 
+TN, 
+
+
+
+Mammal, Gray Bat, Endangered, Ozark Plateau NWR, 
+OK, 
+
+
+
+Mammal, Gray Bat, Endangered, Pilot Knob NWR, 
+MO, 
+
+
+
+Mammal, Gray Bat, Endangered, Cypress Creek NWR, 
+IL, 
+
+
+
+Mammal, Gray Bat, Endangered, Big Muddy National Fish and Wildlife Refuge, 
+MO, 
+
+
+
+Mammal, Gray Bat, Endangered, Key Cave NWR, 
+AL, 
+
+
+
+Mammal, Gray Whale, Endangered, Grays Harbor NWR, 
+WA, 
+
+
+
+Mammal, Gray Whale, Endangered, Alaska Maritime NWR, 
+AK, 
+
+
+
+Mammal, Gray Whale, Endangered, Izembek NWR, 
+AK, 
+
+
+
+Mammal, Gray Whale, Endangered, Kodiak NWR, 
+AK, 
+
+
+
+Mammal, Gray Whale, Endangered, Dungeness NWR, 
+WA, 
+
+
+
+Mammal, Gray Wolf, Threatened, Agassiz NWR, 
+MN, 
+
+
+
+Mammal, Gray Wolf, Threatened, Rice Lake NWR, 
+MN, 
+
+
+
+Mammal, Gray Wolf, Endangered, Seney NWR, 
+MI, 
+
+
+
+Mammal, Gray Wolf, Threatened, Tamarac NWR, 
+MN, 
+
+
+
+Mammal, Gray Wolf, Threatened, Detroit Lakes WMD, 
+MN, 
+
+
+
+Mammal, Gray Wolf, Threatened, Fergus Falls WMD, 
+MN, 
+
+
+
+Mammal, Gray Wolf, Threatened, Rydell NWR, 
+MN, 
+
+
+
+Mammal, Gray Wolf, Endangered, St. Croix WMD, 
+WI, 
+
+
+
+Mammal, Gray Wolf, Threatened, Hamden Slough NWR, 
+MN, 
+
+
+
+Mammal, Gray Wolf, Threatened, Litchfield WMD, 
+MN, 
+
+
+
+Mammal, Gray Wolf, Threatened, Leopold WMD, 
+WI, 
+
+
+
+Mammal, Gray Wolf, Endangered, National Elk Refuge, 
+WY, 
+
+
+
+Mammal, Gray Wolf, Threatened, Whittlesey Creek NWR, 
+WI, 
+
+
+
+Mammal, Gray Wolf, Threatened, Lost Trail NWR, 
+MT, 
+
+
+
+Mammal, Grizzly Bear, Threatened, Swan River NWR, 
+MT, 
+
+
+
+Mammal, Grizzly Bear, Threatened, Nine-pipe NWR, 
+MT, 
+
+
+
+Mammal, Grizzly Bear, Threatened, Blackfoot Valley WMA, 
+MT, 
+
+
+
+Mammal, Grizzly Bear, Threatened, Benton Lake WMD, 
+MT, 
+
+
+
+Mammal, Hawaiian Hoary Bat, Endangered, Hakalau Forest NWR, 
+HI, 
+
+
+
+Mammal, Hawaiian Monk Seal, Endangered, Hawaiian Islands NWR, 
+HI, 
+
+
+
+Mammal, Hawaiian Monk Seal, Endangered, Kilauea Point NWR, 
+HI, 
+
+
+
+Mammal, Hawaiian Monk Seal, Endangered, Midway Atoll  NWR, 
+UM, 
+
+
+
+Mammal, Hawaiian Monk Seal, Endangered, Palmyra Atoll NWR, 
+UM, 
+
+
+
+Mammal, Humpback Whale, Endangered, Kodiak NWR, 
+AK, 
+
+
+
+Mammal, Humpback Whale, Endangered, Alaska Maritime NWR, 
+AK, 
+
+
+
+Mammal, Indiana Bat, Endangered, Ohio River Islands NWR, 
+KY, PA, WV, 
+
+
+
+Mammal, Indiana Bat, Endangered, Great River NWR, 
+IA, IL, MO, 
+
+
+
+Mammal, Indiana Bat, Endangered, Cypress Creek NWR, 
+IL, 
+
+
+
+Mammal, Indiana Bat, Endangered, Neal Smith NWR, 
+IA, 
+
+
+
+Mammal, Indiana Bat, Endangered, Ottawa NWR, 
+OH, 
+
+
+
+Mammal, Indiana Bat, Endangered, Great River NWR, 
+IA, IL, MO, 
+
+
+
+Mammal, Indiana Bat, Endangered, Great River NWR, 
+IA, IL, MO, 
+
+
+
+Mammal, Indiana Bat, Endangered, Great River NWR, 
+IA, IL, MO, 
+
+
+
+Mammal, Indiana Bat, Endangered, Patoka River NWR, 
+IN, 
+
+
+
+Mammal, Indiana Bat, Endangered, Big Muddy National Fish and Wildlife Refuge, 
+MO, 
+
+
+
+Mammal, Indiana Bat, Endangered, Clarks River NWR, 
+KY, 
+
+
+
+Mammal, Indiana Bat, Endangered, Muscatatuck NWR, 
+IN, 
+
+
+
+Mammal, Indiana Bat, Endangered, Pilot Knob NWR, 
+MO, 
+
+
+
+Mammal, Indiana Bat, Endangered, Sauta Cave NWR, 
+AL, 
+
+
+
+Mammal, Indiana Bat, Endangered, Cross Creeks NWR, 
+TN, 
+
+
+
+Mammal, Indiana Bat, Endangered, Logan Cave NWR, 
+AR, 
+
+
+
+Mammal, Indiana Bat, Endangered, Fern Cave NWR, 
+AL, 
+
+
+
+Mammal, Jaguar, Endangered, Santa Ana NWR, 
+TX, 
+
+
+
+Mammal, Jaguar, Endangered, Lower Rio Grande Valley NWR, 
+TX, 
+
+
+
+Mammal, Jaguar, Endangered, Laguna Atascosa NWR, 
+TX, 
+
+
+
+Mammal, Jaguarundi, Endangered, Santa Ana NWR, 
+TX, 
+
+
+
+Mammal, Jaguarundi, Endangered, Laguna Atascosa NWR, 
+TX, 
+
+
+
+Mammal, Jaguarundi, Endangered, Lower Rio Grande Valley NWR, 
+TX, 
+
+
+
+Mammal, Key Deer, Endangered, National Key Deer Refuge, 
+FL, 
+
+
+
+Mammal, Key Largo Cotton Mouse, Endangered, Crocodile Lake NWR, 
+FL, 
+
+
+
+Mammal, Key Largo Woodrat, Endangered, Crocodile Lake NWR, 
+FL, 
+
+
+
+Mammal, Lesser (=Sanborn's) Long-nosed Bat, Endangered, Cabeza Prieta NWR, 
+AZ, 
+
+
+
+Mammal, Little Mariana Fruit Bat, Endangered, Guam NWR, 
+GU, 
+
+
+
+Mammal, Louisiana Black Bear, Threatened, St. Catherine Creek NWR, 
+MS, 
+
+
+
+Mammal, Louisiana Black Bear, Threatened, Grand Cote NWR, 
+LA, 
+
+
+
+Mammal, Louisiana Black Bear, Threatened, FSA Interest for State of Louisiana, 
+LA, 
+
+
+
+Mammal, Louisiana Black Bear, Threatened, Lake Ophelia NWR, 
+LA, 
+
+
+
+Mammal, Louisiana Black Bear, Threatened, Bayou Cocodrie NWR, 
+LA, 
+
+
+
+Mammal, Louisiana Black Bear, Threatened, Bayou Teche NWR, 
+LA, 
+
+
+
+Mammal, Louisiana Black Bear, Threatened, Cat Island NWR, 
+LA, 
+
+
+
+Mammal, Louisiana Black Bear, Threatened, Caddo Lake NWR, 
+TX, 
+
+
+
+Mammal, Louisiana Black Bear, Threatened, Coldwater River NWR, 
+MS, 
+
+
+
+Mammal, Louisiana Black Bear, Threatened, Yazoo NWR , 
+MS, 
+
+
+
+Mammal, Louisiana Black Bear, Threatened, Panther Swamp NWR, 
+MS, 
+
+
+
+Mammal, Louisiana Black Bear, Threatened, Atchafalaya NWR, 
+LA, 
+
+
+
+Mammal, Louisiana Black Bear, Threatened, Tensas River NWR, 
+LA, 
+
+
+
+Mammal, Lower Keys Rabbit, Endangered, National Key Deer Refuge, 
+FL, 
+
+
+
+Mammal, Mariana Fruit Bat, Endangered, Guam NWR, 
+GU, 
+
+
+
+Mammal, Morro Bay Kangaroo Rat, Endangered, Guadalupe-Nipomo Dunes NWR, 
+CA, 
+
+
+
+Mammal, Ocelot, Endangered, Laguna Atascosa NWR, 
+TX, 
+
+
+
+Mammal, Ocelot, Endangered, Lower Rio Grande Valley NWR, 
+TX, 
+
+
+
+Mammal, Ocelot, Endangered, Santa Ana NWR, 
+TX, 
+
+
+
+Mammal, Ozark Big-eared Bat, Endangered, Ozark Plateau NWR, 
+OK, 
+
+
+
+Mammal, Red Wolf, Endangered, Alligator River NWR, 
+NC, 
+
+
+
+Mammal, Red Wolf, Endangered, Cape Romain NWR, 
+SC, 
+
+
+
+Mammal, Red Wolf, Endangered, Pocosin Lakes NWR, 
+NC, 
+
+
+
+Mammal, Rice (=Silver Rice) Rat, Endangered, Great White Heron NWR, 
+FL, 
+
+
+
+Mammal, Rice (=Silver Rice) Rat, Endangered, National Key Deer Refuge, 
+FL, 
+
+
+
+Mammal, Right Whale, Endangered, Alaska Maritime NWR, 
+AK, 
+
+
+
+Mammal, Riparian Brush Rabbit, Endangered, San Joaquin River NWR, 
+CA, 
+
+
+
+Mammal, Salt Marsh Harvest Mouse, Endangered, Don Edwards San Francisco Bay  NWR, 
+CA, 
+
+
+
+Mammal, Salt Marsh Harvest Mouse, Endangered, San Pablo Bay NWR, 
+CA, 
+
+
+
+Mammal, San Joaquin Kit Fox, Endangered, San Luis  NWR, 
+CA, 
+
+
+
+Mammal, San Joaquin Kit Fox, Endangered, Kern NWR, 
+CA, 
+
+
+
+Mammal, San Joaquin Kit Fox, Endangered, Merced NWR, 
+CA, 
+
+
+
+Mammal, San Joaquin Kit Fox, Endangered, Pixley NWR, 
+CA, 
+
+
+
+Mammal, San Joaquin Kit Fox, Endangered, Grasslands WMA, 
+CA, 
+
+
+
+Mammal, San Joaquin Kit Fox, Endangered, Bitter Creek NWR, 
+CA, 
+
+
+
+Mammal, Sei Whale, Endangered, Alaska Maritime NWR, 
+AK, 
+
+
+
+Mammal, Sei Whale, Endangered, Kodiak NWR, 
+AK, 
+
+
+
+Mammal, Sonoran Pronghorn, Endangered, Cabeza Prieta NWR, 
+AZ, 
+
+
+
+Mammal, Southeastern Beach Mouse, Threatened, Merritt Island NWR, 
+FL, 
+
+
+
+Mammal, SpermWhale, Endangered, Alaska Maritime NWR, 
+AK, 
+
+
+
+Mammal, Steller (=Northern) Sea-lion, Threatened, Alaska Maritime NWR, 
+AK, 
+
+
+
+Mammal, Steller (=Northern) Sea-lion, Threatened, Izembek NWR, 
+AK, 
+
+
+
+Mammal, Steller (=Northern) Sea-lion, Threatened, Kodiak NWR, 
+AK, 
+
+
+
+Mammal, Steller (=Northern) Sea-lion, Threatened, Copalis NWR, 
+WA, 
+
+
+
+Mammal, Steller (=Northern) Sea-lion, Threatened, Quillayute Needles  NWR, 
+WA, 
+
+
+
+Mammal, Steller (=Northern) Sea-lion, Threatened, Togiak NWR, 
+AK, 
+
+
+
+Mammal, Steller (=Northern) Sea-lion, Threatened, Three Arch Rocks NWR, 
+OR, 
+
+
+
+Mammal, Steller (=Northern) Sea-lion, Threatened, Oregon Islands NWR, 
+OR, 
+
+
+
+Mammal, Tipton Kangaroo Rat, Endangered, Pixley NWR, 
+CA, 
+
+
+
+Mammal, Virginia Northern Flying Squirrel, Endangered, Canaan Valley NWR, 
+WV, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Island Bay NWR, 
+FL, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Matlacha Pass NWR, 
+FL, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Pine Island NWR, 
+FL, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Ten Thousand Islands NWR, 
+FL, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Ernest F. Hollings ACE Basin NWR, 
+SC, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Vieques NWR, 
+PR, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Chassahowitzka NWR, 
+FL, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Crystal River NWR, 
+FL, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Blackbeard Island NWR, 
+GA, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Merritt Island NWR, 
+FL, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Lower Suwannee NWR, 
+FL, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Harris Neck NWR, 
+GA, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Lake Woodruff NWR, 
+FL, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, J. N. Ding Darling NWR, 
+FL, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Wolf Island NWR, 
+GA, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, St. Marks NWR, 
+FL, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Pelican Island NWR, 
+FL, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Savannah NWR, 
+GA, SC, 
+
+
+
+Mammal, West Indian (=Florida) Manatee, Endangered, Pinellas NWR, 
+FL, 
+
+
+
+Mollusk, Scaleshell Mussel, Proposed, North Dakota WMA, 
+ND, 
+
+
+
+Plant,  Pogogyne abramsii, San Diego mesa mint, Endangered, San Diego NWR, 
+CA, 
+
+
+
+Plant,  Pogogyne nudiuscula, Otay mesa mint, Endangered, San Diego NWR, 
+CA, 
+
+
+
+Plant, Aconitum noveboracense, Northern Wild Monkshood, Endangered, Driftless Area NWR, 
+IA, 
+
+
+
+Plant, Aeschynomene virginica, Sensitive Joint-vetch, Threatened, Mattamuskeet NWR, 
+NC, 
+
+
+
+Plant, Agalinis acuta, sandplain gerardia, Endangered, Wertheim NWR , 
+NY, 
+
+
+
+Plant, Agalinis acuta, sandplain gerardia, Endangered, Mashpee NWR, 
+MA, 
+
+
+
+Plant , Amaranthus brownii, Brown's Pigweed, Endangered, Hawaiian Islands NWR, 
+HI, 
+
+
+
+Plant, Amaranthus pumilus, Seabeach Amaranth, Endangered, Currituck NWR, 
+NC, 
+
+
+
+Plant, Amaranthus pumilus, Seabeach Amaranth, Endangered, Cape Romain NWR, 
+SC, 
+
+
+
+Plant, Apios priceana, Price's Potato Bean, Endangered, Cypress Creek NWR, 
+IL, 
+
+
+
+Plant, Arenaria paludicola, Marsh Sandwort, , Guadalupe-Nipomo Dunes NWR, 
+CA, 
+
+
+
+Plant, Aristida chaseae, no common name, Endangered, Cabo Rojo NWR, 
+PR, 
+
+
+
+Plant, Asclepia meadii, Mead's Milkweed, Threatened, Flint Hills NWR, 
+KS, 
+
+
+
+Plant, Asclepia meadii, Mead's Milkweed, Threatened, Marais des Cygnes NWR, 
+KS, 
+
+
+
+Plant, Asimina tetramera, Four-petal Pawpaw, Endangered, Hobe Sound NWR, 
+FL, 
+
+
+
+Plant, Asplenium scolopendrium  var. americana, American Hart's-tongue Fern, Threatened, Fern Cave NWR, 
+AL, 
+
+
+
+Plant, Astragalus phoenix, Ash Meadows Milk-vetch, Threatened, Ash Meadows NWR, 
+NV, 
+
+
+
+Plant, Boltonia decurrens, Decurrent False Aster, Threatened, Great River NWR, 
+IA, IL, MO, 
+
+
+
+Plant, Boltonia decurrens, Decurrent False Aster, Threatened, Meredosia NWR, 
+IL, 
+
+
+
+Plant, Boltonia decurrens, Decurrent False Aster, Threatened, Big Muddy National Fish and Wildlife Refuge, 
+MO, 
+
+
+
+Plant, Boltonia decurrens, Decurrent False Aster, Threatened, Great River NWR, 
+IA, IL, MO, 
+
+
+
+Plant, Boltonia decurrens, Decurrent False Aster, Threatened, Great River NWR, 
+IA, IL, MO, 
+
+
+
+Plant, Boltonia decurrens, Decurrent False Aster, Threatened, Great River NWR, 
+IA, IL, MO, 
+
+
+
+Plant, Bonamia grandiflora, Florida Bonamia, Threatened, Lake Wales Ridge NWR, 
+FL, 
+
+
+
+Plant, Calyptranthes thomasiana, Thomas?Lidflower, Endangered, Vieques NWR, 
+PR, 
+
+
+
+Plant, Centaurium namophilum, Spring-loving Centaury, Threatened, Ash Meadows NWR, 
+NV, 
+
+
+
+Plant, Cereus eriophorus  var. fragrans, Fragrant Prickly-apple, Endangered, Merritt Island NWR, 
+FL, 
+
+
+
+Plant, Cereus robinii, Key Tree-cactus, Endangered, National Key Deer Refuge, 
+FL, 
+
+
+
+Plant, Chamaesyce garberi, Garber's Spurge, Endangered, National Key Deer Refuge, 
+FL, 
+
+
+
+Plant, Chamaesyce rockii, `Akoko, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Chionanthus pygmaeus, Pygmy Fringe-tree, Endangered, Lake Wales Ridge NWR, 
+FL, 
+
+
+
+Plant, Chorizante pungens var pungens, Monterey spineflower, Threatened, Salinas River NWR, 
+CA, 
+
+
+
+Plant, Cirsium pitcheri, Pitcher's Thistle, Threatened, Leopold WMD, 
+WI, 
+
+
+
+Plant, Clermontia pyrularia, 'oha wai, Endangered, Hakalau Forest NWR, 
+HI, 
+
+
+
+Plant, Clitoria fragrans, Pigeon Wings, Threatened, Lake Wales Ridge NWR, 
+FL, 
+
+
+
+Plant, Cordylanthus maritimus  spp. maritimus, Salt Marsh Bird's-beak, Endangered, San Diego Bay NWR, 
+CA, 
+
+
+
+Plant, Cordylanthus maritimus  spp. maritimus, Salt Marsh Bird's-beak, Endangered, Tijuana Slough  NWR, 
+CA, 
+
+
+
+Plant, Cordylanthus palmatus, Palmate-bracted Bird's-beak, Endangered, Colusa NWR, 
+CA, 
+
+
+
+Plant, Cordylanthus palmatus, Palmate-bracted Bird's-beak, Endangered, Delevan NWR, 
+CA, 
+
+
+
+Plant, Cordylanthus palmatus, Palmate-bracted Bird's-beak, Endangered, Willow Creek-Lurline WMA, 
+CA, 
+
+
+
+Plant, Cordylanthus palmatus, Palmate-bracted Bird's-beak, Endangered, North Central Valley WMA, 
+CA, 
+
+
+
+Plant, Coryphantha sneedii  var. robustispina, Pima Pineapple Cactus, Endangered, Buenos Aires NWR, 
+AZ, 
+
+
+
+Plant, Coryphantha sneedii  var. sneedii, Sneed Pincushion Cactus, Endangered, San Andres NWR, 
+NM, 
+
+
+
+Plant, Cyanea acuminata, Haha, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Cyanea humboldtiana, Haha, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Cyanea koolauensis, Haha, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Cyanea shipmanii, haha, Endangered, Hakalau Forest NWR, 
+HI, 
+
+
+
+Plant, Cyrandra subumellata, Ha`iwale, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Cyrandra viridiflora, Ha`iwale, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Dicerandra christmanii, Garett's Mint, Endangered, Lake Wales Ridge NWR, 
+FL, 
+
+
+
+Plant, Echinocereus fendleri  var. kuenzleri, Kuenzler Hedgehog Cactus, Endangered, San Andres NWR, 
+NM, 
+
+
+
+Plant, Enceliopsis nudicaulis  var. corrugata, Ash Meadows Sunray, Threatened, Ash Meadows NWR, 
+NV, 
+
+
+
+Plant, Eriogonum longifolium var. gnaphalifolium, Scrub Buckwheat, Threatened, Lake Wales Ridge NWR, 
+FL, 
+
+
+
+Plant, Eryngium aristulatum  var. parishii, San Diego button-celery, Endangered, San Diego NWR, 
+CA, 
+
+
+
+Plant, Erysimum capitatum  var. angustatum, Contra Costa Wallflower, Endangered, Antioch Dunes NWR, 
+CA, 
+
+
+
+Plant, Eugenia woodburyana, no common name, Endangered, Cabo Rojo NWR, 
+PR, 
+
+
+
+Plant, Eugenia woodburyana, no common name, Endangered, Vieques NWR, 
+PR, 
+
+
+
+Plant, Gardenia manii, Nanu, Na`u, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Gilia tenuiflora ssp. arenaria, Monterey gilia, Endangered, Salinas River NWR, 
+CA, 
+
+
+
+Plant, Goetzea elegans, Beautiful Goetzea, Endangered, Vieques NWR, 
+PR, 
+
+
+
+Plant, Grindelia fraxinopratensis, Ash Meadows Gumplant, Threatened, Ash Meadows NWR, 
+NV, 
+
+
+
+Plant, Harrisia portorricensis, Higo Chumbo, Threatened, Desecheo NWR, 
+PR, 
+
+
+
+Plant, Helianthus paradoxus, Pecos Sunflower, Threatened, Bitter Lake NWR, 
+NM, 
+
+
+
+Plant, Helonias bullata, Swamp Pink, Threatened, Cape May NWR, 
+NJ, 
+
+
+
+Plant, Helonias bullata, Swamp Pink, Threatened, Edwin B. Forsythe NWR, 
+NJ, 
+
+
+
+Plant, Hesperomannia arborescens, no common name, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Howellia aquatilis, Water Howellia, Threatened, Turnbull NWR, 
+WA, 
+
+
+
+Plant, Howellia aquatilis, Water Howellia, Threatened, Ridgefield NWR, 
+WA, 
+
+
+
+Plant, Hymenoxys aculis  var. glabra, Lakeside Daisy, Threatened, Ottawa NWR, 
+OH, 
+
+
+
+Plant, Iris lacustris,  Dwarf Lake Iris, Threatened, Michigan Islands NWR, 
+MI, 
+
+
+
+Plant, Iris lacustris, Dwarf Lake Iris, Threatened, Leopold WMD, 
+WI, 
+
+
+
+Plant, Isodendrion laurifolium, Aupaka, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Ivesia kingii  var. eremica, Ash Meadows ivesia, Threatened, Ash Meadows NWR, 
+NV, 
+
+
+
+Plant, Lespedeza leptostachya, Prairie Bush-clover, Threatened, Leopold WMD, 
+WI, 
+
+
+
+Plant, Lespedeza leptostachya, Prairie Bush-clover, Threatened, Windom WMD, 
+MN, 
+
+
+
+Plant, Lespedeza leptostachya, Prairie Bush-clover, Threatened, Litchfield WMD, 
+MN, 
+
+
+
+Plant, Lespedeza leptostachya, Prairie Bush-clover, Threatened, Iowa WMD, 
+IA, 
+
+
+
+Plant, Liatris ohlingerae, Scrub Blazingstar, Endangered, Lake Wales Ridge NWR, 
+FL, 
+
+
+
+Plant, Lilaeopsis schaffneriana  var.recurva, Huachuca water umbel, Endangered, San Bernardino NWR, 
+AZ, 
+
+
+
+Plant, Lilaeopsis schaffneriana spp. recurva, Huachuca water umbel, Endangered, Leslie Canyon NWR, 
+AZ, 
+
+
+
+Plant, Lobelia gaudichaudii spp. koolauensis, no common name, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Lobelia oahuensis, no common name, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Lomatium bradshawii, Bradshaw's Desert-parsley, Endangered, William L. Finley NWR, 
+OR, 
+
+
+
+Plant, Manihot walkerae, Walker's Manioc, Endangered, Lower Rio Grande Valley NWR, 
+TX, 
+
+
+
+Plant, Mariscus pennatiformis bryanii, no common name, Endangered, Hawaiian Islands NWR, 
+HI, 
+
+
+
+Plant, Mentzelia leucophylla, Ash Meadows Blazing-star, Threatened, Ash Meadows NWR, 
+NV, 
+
+
+
+Plant, Nitrophila mohavensis, Amargosa Niterwort, Endangered, Ash Meadows NWR, 
+NV, 
+
+
+
+Plant, Oenothera deltoides howellii, Antioch Dunes Evening Primrose, Endangered, Antioch Dunes NWR, 
+CA, 
+
+
+
+Plant, Orcuttia californica, California Orcutt grass, Endangered, San Diego NWR, 
+CA, 
+
+
+
+Plant, Oxypolis canbyi, Canby's Dropwort, Endangered, Ernest F. Hollings ACE Basin NWR, 
+SC, 
+
+
+
+Plant, Oxytropis campestris  var. chartacea, Fassett's Locoweed, Threatened, Leopold WMD, 
+WI, 
+
+
+
+Plant, Paronychia chartacea (= Nyachia pulvinata), Papery Whitlow-wort, Threatened, Lake Wales Ridge NWR, 
+FL, 
+
+
+
+Plant, Penstemon haydenii, Blowout Penstemon, Endangered, Crescent Lake NWR, 
+NE, 
+
+
+
+Plant, Penstemon haydenii, Blowout Penstemon, Endangered, Valentine NWR, 
+NE, 
+
+
+
+Plant, Peperomia wheeleri, Wheeler's Peperomia, Endangered, Culebra NWR, 
+PR, 
+
+
+
+Plant, Phlegmariurus nutans, Wawae`iole, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Phyllostegia hirsuta, no common name, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Planthera praeclara, western prairie fringed orchid, Threatened, North Dakota WMA, 
+ND, 
+
+
+
+Plant, Platanthera leucophaea, Eastern Prairie Fringed Orchid, Threatened, Leopold WMD, 
+WI, 
+
+
+
+Plant, Platanthera leucophaea, Eastern Prairie Fringed Orchid, Threatened, Ottawa NWR, 
+OH, 
+
+
+
+Plant, Platanthera leucophaea, Eastern Prairie Fringed Orchid, Threatened, Cedar Point NWR, 
+OH, 
+
+
+
+Plant, Platanthera praeclara, Western Prairie Fringed Orchid, Threatened, Detroit Lakes WMD, 
+MN, 
+
+
+
+Plant, Platanthera praeclara, Western Prairie Fringed Orchid, Threatened, Fergus Falls WMD, 
+MN, 
+
+
+
+Plant, Platanthera praeclara, Western Prairie Fringed Orchid, Endangered, Morris WMD, 
+MN, 
+
+
+
+Plant, Platanthera praeclara, Western Prairie Fringed Orchid, Threatened, Valentine NWR, 
+NE, 
+
+
+
+Plant, Platanthera praeclara, Western Prairie Fringed Orchid, Threatened, Maple River NWR, 
+ND, 
+
+
+
+Plant, Platanthera praeclara, Western Prairie Fringed Orchid, Threatened, Devils Lake WMD, 
+ND, 
+
+
+
+Plant, Platanthera praeclara, Western Prairie Fringed Orchid, Threatened, Kulm WMD, 
+ND, 
+
+
+
+Plant, Platanthera praeclara, Western Prairie Fringed Orchid, Threatened, Bone Hill NWR, 
+ND, 
+
+
+
+Plant, Platanthera praeclara, Western Prairie Fringed Orchid, Threatened, Iowa WMD, 
+IA, 
+
+
+
+Plant, Platanthera praeclara, Western Prairie Fringed Orchid, Threatened, Litchfield WMD, 
+MN, 
+
+
+
+Plant, Platanthera praeclara, Western Prairie Fringed Orchid, Threatened, Northern Tallgrass Prairie NWR, 
+MN, 
+
+
+
+Plant, Platanthera praeclara, Western Prairie Fringed Orchid, Threatened, Dakota Tallgrass Prairie WMA, 
+SD, 
+
+
+
+Plant, Polygonella basiramia (= P. ciliata  var. b.), Wireweed, Endangered, Lake Wales Ridge NWR, 
+FL, 
+
+
+
+Plant, Pritchardia remota, loulo, Endangered, Hawaiian Islands NWR, 
+HI, 
+
+
+
+Plant, Prunus geniculata, Scrub Plum, Endangered, Lake Wales Ridge NWR, 
+FL, 
+
+
+
+Plant, Pteris lydgatei, no common name, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Rorippa gambellii, Gambel抯 Watercress, Endangered, Guadalupe-Nipomo Dunes NWR, 
+CA, 
+
+
+
+Plant, Sanicula purpurea, no common name, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Schiedea verticillata, Whorled schiedea, Endangered, Hawaiian Islands NWR, 
+HI, 
+
+
+
+Plant, Schwalbea americana  American chaffseed, Endangered, Noxubee NWR, 
+MS, 
+
+
+
+Plant, Sclerocactus glaucus, Uinta Basin Hookless Cactus, Endangered, Ouray NWR, 
+UT, 
+
+
+
+Plant, Sedum integrifolium leedyi, Leedy's roseroot, Threatened, Driftless Area NWR, 
+IA, 
+
+
+
+Plant, Serianthes nelsonii, hayun lagu, Endangered, Guam NWR, 
+GU, 
+
+
+
+Plant, Sesbania tomentosa, no common name, Endangered, Hawaiian Islands NWR, 
+HI, 
+
+
+
+Plant, Sidalcea nelsoniana, Nelson's Checker-mallow, Threatened, William L. Finley NWR, 
+OR, 
+
+
+
+Plant, Stahlia monosperma, Cobana negra, Threatened, Cabo Rojo NWR, 
+PR, 
+
+
+
+Plant, Stahlia monosperma, Cobana negra, Threatened, Vieques NWR, 
+PR, 
+
+
+
+Plant, Tetraplasandra gymnocarpa, no common name, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Plant, Trifolium stoloniferum, Running Buffalo Clover, Threatened, Ottawa NWR, 
+OH, 
+
+
+
+Plant, Viola oahuensis, no common name, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Reptile, American Crocodile, Endangered, Ten Thousand Islands NWR, 
+FL, 
+
+
+
+Reptile, American Crocodile, Endangered, J. N. Ding Darling NWR, 
+FL, 
+
+
+
+Reptile, American Crocodile, Endangered, Crocodile Lake NWR, 
+FL, 
+
+
+
+Reptile, Atlantic Salt Marsh Snake, Threatened, Merritt Island NWR, 
+FL, 
+
+
+
+Reptile, Atlantic Salt Marsh Snake, Threatened, Pelican Island NWR, 
+FL, 
+
+
+
+Reptile, Blue-tailed Mole Skink, Threatened, Lower Suwannee NWR, 
+FL, 
+
+
+
+Reptile, Blunt-nosed Leopard Lizard, Endangered, Pixley NWR, 
+CA, 
+
+
+
+Reptile, Blunt-nosed Leopard Lizard, Endangered, San Luis  NWR, 
+CA, 
+
+
+
+Reptile, Blunt-nosed Leopard Lizard, Endangered, Kern NWR, 
+CA, 
+
+
+
+Reptile, Blunt-nosed Leopard Lizard, Endangered, Grasslands WMA, 
+CA, 
+
+
+
+Reptile, Coachella Valley Fringe-toed Lizard, Endangered, Coachella Valley  NWR, 
+CA, 
+
+
+
+Reptile, Culebra Island Giant Anole, Endangered, Culebra NWR, 
+PR, 
+
+
+
+Reptile, Desert Tortoise, Threatened, Imperial NWR, 
+AZ, CA, 
+
+
+
+Reptile, Desert Tortoise, Threatened, Cibola NWR, 
+AZ, CA, 
+
+
+
+Reptile, Desert Tortoise, Threatened, Havasu NWR, 
+AZ, CA, 
+
+
+
+Reptile, Desert Tortoise, Threatened, Desert National Wildlife Range, 
+NV, 
+
+
+
+Reptile, Eastern Indigo Snake, Threatened, Crocodile Lake NWR, 
+FL, 
+
+
+
+Reptile, Eastern Indigo Snake, Threatened, Chassahowitzka NWR, 
+FL, 
+
+
+
+Reptile, Eastern Indigo Snake, Threatened, Arthur R. Marshall Loxahatchee NWR, 
+FL, 
+
+
+
+Reptile, Eastern Indigo Snake, Threatened, Lower Suwannee NWR, 
+FL, 
+
+
+
+Reptile, Eastern Indigo Snake, Threatened, Merritt Island NWR, 
+FL, 
+
+
+
+Reptile, Eastern Indigo Snake, Threatened, National Key Deer Refuge, 
+FL, 
+
+
+
+Reptile, Eastern Indigo Snake, Threatened, Hobe Sound NWR, 
+FL, 
+
+
+
+Reptile, Eastern Indigo Snake, Threatened, Lake Woodruff NWR, 
+FL, 
+
+
+
+Reptile, Eastern Indigo Snake, Threatened, Florida Panther NWR, 
+FL, 
+
+
+
+Reptile, Eastern Indigo Snake, Threatened, Okefenokee NWR, 
+GA, FL, 
+
+
+
+Reptile, Eastern Indigo Snake, Threatened, St. Johns NWR, 
+FL, 
+
+
+
+Reptile, Eastern Indigo Snake, Threatened, St. Marks NWR, 
+FL, 
+
+
+
+Reptile, Eastern Indigo Snake, Threatened, St. Vincent NWR, 
+FL, 
+
+
+
+Reptile, Eastern Indigo Snake, Threatened, Lake Wales Ridge NWR, 
+FL, 
+
+
+
+Reptile, Giant Garter Snake, Threatened, Stone Lakes NWR, 
+CA, 
+
+
+
+Reptile, Giant Garter Snake, Endangered, Willow Creek-Lurline WMA, 
+CA, 
+
+
+
+Reptile, Giant Garter Snake, Endangered, North Central Valley WMA, 
+CA, 
+
+
+
+Reptile, Giant Garter Snake, Endangered, Grasslands WMA, 
+CA, 
+
+
+
+Reptile, Giant Garter Snake, Endangered, San Luis  NWR, 
+CA, 
+
+
+
+Reptile, Giant Garter Snake, Endangered, Merced NWR, 
+CA, 
+
+
+
+Reptile, Gopher Tortoise, Threatened, Bogue Chitto NWR, 
+LA, MS, 
+
+
+
+Reptile, Gopher Tortoise, Threatened, Mississippi Sandhill Crane NWR, 
+MS, 
+
+
+
+Reptile, Green Sea Turtle, Endangered, Merritt Island NWR, 
+FL, 
+
+
+
+Reptile, Green Sea Turtle, Endangered, Key West NWR, 
+FL, 
+
+
+
+Reptile, Green Sea Turtle, Threatened, Lower Suwannee NWR, 
+FL, 
+
+
+
+Reptile, Green Sea Turtle, Endangered, Hobe Sound NWR, 
+FL, 
+
+
+
+Reptile, Green Sea Turtle, Endangered, Desecheo NWR, 
+PR, 
+
+
+
+Reptile, Green Sea Turtle, Threatened, Sandy Point NWR, 
+VI, 
+
+
+
+Reptile, Green Sea Turtle, Endangered, St. Marks NWR, 
+FL, 
+
+
+
+Reptile, Green Sea Turtle, Endangered, Pinellas NWR, 
+FL, 
+
+
+
+Reptile, Green Sea Turtle, Endangered, Passage Key NWR, 
+FL, 
+
+
+
+Reptile, Green Sea Turtle, Endangered, Pelican Island NWR, 
+FL, 
+
+
+
+Reptile, Green Sea Turtle, Endangered, Chassahowitzka NWR, 
+FL, 
+
+
+
+Reptile, Green Sea Turtle, Endangered, Breton NWR, 
+LA, 
+
+
+
+Reptile, Green Sea Turtle, Threatened, Lower Rio Grande Valley NWR, 
+TX, 
+
+
+
+Reptile, Green Sea Turtle, Threatened, Aransas NWR, 
+TX, 
+
+
+
+Reptile, Green Sea Turtle, Threatened, Midway Atoll  NWR, 
+UM, 
+
+
+
+Reptile, Green Sea Turtle, Threatened, Rose Atoll NWR, 
+AS, 
+
+
+
+Reptile, Green Sea Turtle, Threatened, Johnston Island NWR, 
+UM, 
+
+
+
+Reptile, Green Sea Turtle, Threatened, Hawaiian Islands NWR, 
+HI, 
+
+
+
+Reptile, Green Sea Turtle, Endangered, Ten Thousand Islands NWR, 
+FL, 
+
+
+
+Reptile, Green Sea Turtle, Endangered, Archie Carr NWR, 
+FL, 
+
+
+
+Reptile, Green Sea Turtle, Threatened, Guam NWR, 
+GU, 
+
+
+
+Reptile, Green Sea Turtle, Endangered, Pea Island NWR, 
+NC, 
+
+
+
+Reptile, Green Sea Turtle, Threatened, Delta NWR, 
+LA, 
+
+
+
+Reptile, Green Sea Turtle, Threatened, Kingman Reef NWR, 
+UM, 
+
+
+
+Reptile, Green Sea Turtle, Threatened, Palmyra Atoll NWR, 
+UM, 
+
+
+
+Reptile, Green Sea Turtle, Threatened, San Diego Bay NWR, 
+CA, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Kingman Reef NWR, 
+UM, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Palmyra Atoll NWR, 
+UM, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Vieques NWR, 
+PR, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Guam NWR, 
+GU, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Archie Carr NWR, 
+FL, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Jarvis Island NWR, 
+UM, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Howland Island NWR, 
+UM, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Baker Island NWR, 
+UM, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Rose Atoll NWR, 
+AS, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Aransas NWR, 
+TX, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Lower Rio Grande Valley NWR, 
+TX, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Culebra NWR, 
+PR, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Desecheo NWR, 
+PR, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Pelican Island NWR, 
+FL, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Sandy Point NWR, 
+VI, 
+
+
+
+Reptile, Hawksbill Sea Turtle, Endangered, Merritt Island NWR, 
+FL, 
+
+
+
+Reptile, Kemp's Ridley Sea Turtle, Endangered, Merritt Island NWR, 
+FL, 
+
+
+
+Reptile, Kemp's Ridley Sea Turtle, Endangered, Lower Suwannee NWR, 
+FL, 
+
+
+
+Reptile, Kemp's Ridley Sea Turtle, Endangered, Pelican Island NWR, 
+FL, 
+
+
+
+Reptile, Kemp's Ridley Sea Turtle, Endangered, St. Marks NWR, 
+FL, 
+
+
+
+Reptile, Kemp's Ridley Sea Turtle, Endangered, Oyster Bay NWR, 
+NY, 
+
+
+
+Reptile, Kemp's Ridley Sea Turtle, Endangered, Chassahowitzka NWR, 
+FL, 
+
+
+
+Reptile, Kemp's Ridley Sea Turtle, Endangered, Breton NWR, 
+LA, 
+
+
+
+Reptile, Kemp's Ridley Sea Turtle, Endangered, Lower Rio Grande Valley NWR, 
+TX, 
+
+
+
+Reptile, Kemp's Ridley Sea Turtle, Endangered, Aransas NWR, 
+TX, 
+
+
+
+Reptile, Kemp's Ridley Sea Turtle, Endangered, Eastern Shore Of Virginia NWR, 
+VA, 
+
+
+
+Reptile, Kemp's Ridley Sea Turtle, Endangered, Delta NWR, 
+LA, 
+
+
+
+Reptile, Kemp's Ridley Sea Turtle, Endangered, Fisherman Island NWR, 
+VA, 
+
+
+
+Reptile, Kemp's Ridley Sea Turtle, Endangered, Elizabeth A. Morton NWR, 
+NY, 
+
+
+
+Reptile, Leatherback Sea Turtle, Endangered, Oyster Bay NWR, 
+NY, 
+
+
+
+Reptile, Leatherback Sea Turtle, Endangered, Fisherman Island NWR, 
+VA, 
+
+
+
+Reptile, Leatherback Sea Turtle, Endangered, Delta NWR, 
+LA, 
+
+
+
+Reptile, Leatherback Sea Turtle, Endangered, Eastern Shore Of Virginia NWR, 
+VA, 
+
+
+
+Reptile, Leatherback Sea Turtle, Endangered, Archie Carr NWR, 
+FL, 
+
+
+
+Reptile, Leatherback Sea Turtle, Endangered, Merritt Island NWR, 
+FL, 
+
+
+
+Reptile, Leatherback Sea Turtle, Endangered, Vieques NWR, 
+PR, 
+
+
+
+Reptile, Leatherback Sea Turtle, Endangered, Aransas NWR, 
+TX, 
+
+
+
+Reptile, Leatherback Sea Turtle, Endangered, Lower Rio Grande Valley NWR, 
+TX, 
+
+
+
+Reptile, Leatherback Sea Turtle, Endangered, Breton NWR, 
+LA, 
+
+
+
+Reptile, Leatherback Sea Turtle, Endangered, St. Marks NWR, 
+FL, 
+
+
+
+Reptile, Leatherback Sea Turtle, Endangered, Sandy Point NWR, 
+VI, 
+
+
+
+Reptile, Leatherback Sea Turtle, Endangered, Hobe Sound NWR, 
+FL, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Hobe Sound NWR, 
+FL, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Key West NWR, 
+FL, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Lower Suwannee NWR, 
+FL, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Merritt Island NWR, 
+FL, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Pinellas NWR, 
+FL, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Pelican Island NWR, 
+FL, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Passage Key NWR, 
+FL, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Pea Island NWR, 
+NC, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, St. Vincent NWR, 
+FL, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, St. Marks NWR, 
+FL, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Wassaw NWR, 
+GA, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Back Bay NWR, 
+VA, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Wolf Island NWR, 
+GA, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Chincoteague NWR, 
+MD, VA, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Breton NWR, 
+LA, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Bon Secour NWR, 
+AL, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Blackbeard Island NWR, 
+GA, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Chassahowitzka NWR, 
+FL, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Cape Romain NWR, 
+SC, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Egmont Key NWR, 
+FL, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Endangered, Currituck NWR, 
+NC, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Lower Rio Grande Valley NWR, 
+TX, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Laguna Atascosa NWR, 
+TX, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Aransas NWR, 
+TX, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Archie Carr NWR, 
+FL, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Ten Thousand Islands NWR, 
+FL, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Eastern Shore Of Virginia NWR, 
+VA, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Fisherman Island NWR, 
+VA, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Oyster Bay NWR, 
+NY, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Elizabeth A. Morton NWR, 
+NY, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Delta NWR, 
+LA, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Target Rock NWR, 
+NY, 
+
+
+
+Reptile, Loggerhead Sea Turtle, Threatened, Wertheim NWR , 
+NY, 
+
+
+
+Reptile, Northern Copperbelly Water snake, Threatened, Muscatatuck NWR, 
+IN, 
+
+
+
+Reptile, Northern Copperbelly Water Snake, Threatened, Cypress Creek NWR, 
+IL, 
+
+
+
+Reptile, Northern Copperbelly Water snake, Threatened, Patoka River NWR, 
+IN, 
+
+
+
+Reptile, Plymouth Red-bellied Turtle, Endangered, Massasoit NWR, 
+MA, 
+
+
+
+Reptile, Ringed Sawback Turtle, Threatened, Bogue Chitto NWR, 
+LA, MS, 
+
+
+
+Reptile, Sand Skink, Threatened, Lake Wales Ridge NWR, 
+FL, 
+
+
+
+Reptile, St. Croix Ground Lizard, Endangered, Green Cay NWR, 
+VI, 
+
+
+
+Snail, Cylindrical lioplax, Endangered, Cahaba River National Wildlife Refuge, 
+AL, 
+
+
+
+Snail, Iowa Pleistocene Snail, Endangered, Driftless Area NWR, 
+IA, 
+
+
+
+Snail, Oahu Tree Snail - Achatinella byronii, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Snail, Oahu Tree Snail - Achatinella decipiens, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Snail, Oahu Tree Snail - Achatinella leucorraphe, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Snail, Oahu Tree Snail - Achatinella sowerbyana, Endangered, Oahu Forest NWR, 
+HI, 
+
+
+
+Snail, Round rocksnail, Threatened, Cahaba River National Wildlife Refuge, 
+AL, 
+
+
+
+Snail, Stock Island Tree Snail, Threatened, National Key Deer Refuge, 
+FL,
